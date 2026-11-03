@@ -1,0 +1,17 @@
+# notebook ishga tushganda yaratiladigan papka va fayllar
+.ipynb_checkpoints/
+__pycache__/
+results.zip
+# arxivdan chiqarilgan ORCA fayllari (repozitoriyda faqat data/orca_data.tar.xz saqlanadi)
+2ME/
+DMI/
+PbI2/
+PbBr2/
+FAI/
+MABr/
+ligands_alpb/
+# katta ORCA fayllari
+*.gbw
+*.densities
+*.densitiesinfo
+*.tmp

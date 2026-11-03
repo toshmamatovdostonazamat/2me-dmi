@@ -1,0 +1,4 @@
+! XTB Freq ALPB(methanol)
+%freq Temp 298.15 end
+%pal nprocs 8 end
+* xyzfile 0 1 MABr_b3_c1a2_s2_r2scan.xyz

@@ -1,0 +1,3 @@
+! XTB Opt 
+%pal nprocs 8 end
+* xyzfile 0 1 MABr_b0_c0a0_start.xyz

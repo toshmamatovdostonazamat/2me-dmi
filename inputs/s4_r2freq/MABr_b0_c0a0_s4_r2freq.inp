@@ -1,0 +1,11 @@
+! r2SCAN-3c TightOpt Freq TightSCF CPCM(2-methoxyethanol)
+%pal nprocs 6 end
+%maxcore 2500
+%cpcm
+  smd true
+  SMDsolvent "2-methoxyethanol"
+end
+%geom
+  MaxIter 300
+end
+* xyzfile 0 1 MABr_b0_c0a0_s4_disp.xyz

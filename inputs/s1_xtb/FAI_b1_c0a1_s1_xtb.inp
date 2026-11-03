@@ -1,0 +1,3 @@
+! XTB Opt ALPB(methanol)
+%pal nprocs 8 end
+* xyzfile 0 1 FAI_b1_c0a1_start.xyz

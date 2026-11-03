@@ -1,0 +1,4 @@
+! XTB VeryTightOpt Freq
+%pal nprocs 6 end
+%maxcore 2500
+* xyzfile 0 1 PbBr2_b3_s2_r2scan.xyz

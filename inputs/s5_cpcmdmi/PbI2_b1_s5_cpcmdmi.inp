@@ -1,0 +1,8 @@
+! r2SCAN-3c TightSCF CPCM
+%pal nprocs 6 end
+%maxcore 2000
+%cpcm
+  epsilon 37.6
+  refrac 1.472
+end
+* xyzfile 0 1 PbI2_b1_s2_r2scan.xyz

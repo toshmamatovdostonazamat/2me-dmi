@@ -1,0 +1,8 @@
+# Python 3.9.25
+numpy==1.26.4
+pandas==2.0.3
+scipy==1.11.4
+matplotlib==3.5.3
+ase
+pillow==11.3.0
+notebook

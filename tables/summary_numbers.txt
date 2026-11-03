@@ -1,0 +1,78 @@
+==============================================================================
+A. LIGAND ALMASHINISH ENERGETIKASI (3)-(4), kJ/mol — qo'lyozma sxemasi
+==============================================================================
+PbI2   Boltsman-effektiv ΔG_b: b=0: -0.0, b=1: -22.2, b=2: -33.8, b=3: -34.0, b=4: -33.8   ΔG_n/n = -8.4
+       b=2: cis − trans = -11.9 (manfiy -> cis barqarorroq)
+PbBr2  Boltsman-effektiv ΔG_b: b=0: -0.0, b=1: +36.4, b=2: +13.9, b=3: +17.2, b=4: +19.6   ΔG_n/n = +4.9
+       b=2: cis − trans = -12.2 (manfiy -> cis barqarorroq)
+FAI    Boltsman-effektiv ΔG_b: b=0: -0.0, b=1: +6.9, b=2: -9.7, b=3: +0.4, b=4: +8.2   ΔG_n/n = +2.0
+       b≤2: anion o'rnidagi DMI (a≥1) izomerlari a=0 dan yuqori: +9.5 … +14.8
+       b=3: eng barqaror b3_c1a2 (+0.5); boshqasidan 7.2 past
+MABr   Boltsman-effektiv ΔG_b: b=0: -0.0, b=1: +6.3, b=2: +9.1, b=3: +17.0, b=4: +25.0   ΔG_n/n = +6.3
+       b≤2: anion o'rnidagi DMI (a≥1) izomerlari a=0 dan yuqori: +2.1 … +13.5
+       b=3: eng barqaror b3_c2a1 (+17.1); boshqasidan 8.7 past
+
+==============================================================================
+B. ERUVCHANLIK S_sat(φ)/S_sat(0) — suyultirilgan chegara (Rasm 3)
+==============================================================================
+PbI2   5%: 4.92e+03  10%: 1.59e+04  20%: 4.92e+04  40%: 1.28e+05  50%: 1.61e+05  60%: 1.85e+05  80%: 2.03e+05  100%: 1.72e+05   max: 2.03e+05 (φ = 78%)
+PbBr2  5%: 0.815  10%: 0.656  20%: 0.41  40%: 0.13  50%: 0.0631  60%: 0.0262  80%: 0.002  100%: 0.000103   max: 1 (φ = 0%)
+FAI    5%: 0.88  10%: 0.884  20%: 1.12  40%: 1.73  50%: 1.81  60%: 1.65  80%: 0.771  100%: 0.0105   max: 1.81 (φ = 48%)
+MABr   5%: 0.819  10%: 0.665  20%: 0.422  40%: 0.14  50%: 0.0707  60%: 0.0309  80%: 0.00279  100%: 1.17e-05   max: 1 (φ = 0%)
+Real konsentratsiyalarda (Rasm S3):
+   PbI2   φ =  10%: S_ref = 0.1–1 M da 2.13 … 9.66  (suyultirilgan: 1.59e+04)
+   PbI2   φ =  50%: S_ref = 0.1–1 M da 4.7 … 24.7  (suyultirilgan: 1.61e+05)
+   PbI2   φ = 100%: S_ref = 0.1–1 M da 4.35 … 23.4  (suyultirilgan: 1.72e+05)
+   PbI2   suyultirilgan chegaradan max farq: 4.64 log10 birlik
+   PbBr2  φ =  10%: S_ref = 0.1–1 M da 0.675 … 0.745  (suyultirilgan: 0.656)
+   PbBr2  φ =  50%: S_ref = 0.1–1 M da 0.0696  (suyultirilgan: 0.0631)
+   PbBr2  φ = 100%: S_ref = 0.1–1 M da 0.000116  (suyultirilgan: 0.000103)
+   PbBr2  suyultirilgan chegaradan max farq: 0.30 log10 birlik
+   FAI    φ =  10%: S_ref = 0.1–1 M da 0.889  (suyultirilgan: 0.884)
+   FAI    φ =  50%: S_ref = 0.1–1 M da 1.25 … 1.63  (suyultirilgan: 1.81)
+   FAI    φ = 100%: S_ref = 0.1–1 M da 0.0117  (suyultirilgan: 0.0105)
+   FAI    suyultirilgan chegaradan max farq: 0.29 log10 birlik
+   MABr   φ =  10%: S_ref = 0.1–1 M da 0.684 … 0.753  (suyultirilgan: 0.665)
+   MABr   φ =  50%: S_ref = 0.1–1 M da 0.0779  (suyultirilgan: 0.0707)
+   MABr   φ = 100%: S_ref = 0.1–1 M da 1.31e-05  (suyultirilgan: 1.17e-05)
+   MABr   suyultirilgan chegaradan max farq: 0.30 log10 birlik
+
+==============================================================================
+C. ASOSIY KOMPLEKS TURLARI (Rasm 4): har bir φ oralig'ida eng katta c_b/S_sat
+==============================================================================
+PbI2   0–0%: (2ME)4(DMI)0;  0–1%: (2ME)3(DMI)1;  2–56%: (2ME)2(DMI)2;  57–86%: (2ME)1(DMI)3;  86–100%: (2ME)0(DMI)4
+PbBr2  0–90%: (2ME)4(DMI)0;  90–94%: (2ME)1(DMI)3;  94–100%: (2ME)0(DMI)4
+FAI    0–16%: (2ME)4(DMI)0;  16–98%: (2ME)2(DMI)2;  98–98%: (2ME)1(DMI)3;  98–100%: (2ME)0(DMI)4
+MABr   0–89%: (2ME)4(DMI)0;  90–94%: (2ME)2(DMI)2;  95–98%: (2ME)1(DMI)3;  99–100%: (2ME)0(DMI)4
+
+==============================================================================
+D. TERMOKIMYO DARAJASI (Jadval S1), kJ/mol
+==============================================================================
+PbI2   B − A: -2.2 … -1.5   (geometriya +0.0, termokimyo -2.2 … -1.5)
+PbBr2  B − A: -10.8 … +4.8   (geometriya +0.0, termokimyo -10.8 … +4.8)
+FAI    B − A: +6.0 … +19.8   (geometriya -0.5 … +0.1, termokimyo +5.9 … +20.3)
+MABr   B − A: -3.7 … +3.0   (geometriya -2.4 … +0.3, termokimyo -4.0 … +5.4)
+PbI2, PbBr2 (b=2,4), MABr: |B − A| = 1.5–4.8
+Mavhum modalarni |ν| deb olish: max |tuzatma| = 5.6; FAI dan tashqari max = 2.2
+   PbBr2 b2_cis: ν = -90 -67 cm-1, tuzatma -1.2
+   PbBr2 b4: ν = -54 cm-1, tuzatma +0.1
+   FAI b2_c2a0: ν = -175 cm-1, tuzatma -0.3
+   FAI b4_c2a2: ν = -195 -48 -14 cm-1, tuzatma -5.6
+   MABr b2_c2a0: ν = -83 cm-1, tuzatma +0.6
+qRRHO (Jadval S2): ω0 = 50–150 max = 2.6;  RRHO max = 10.2
+
+==============================================================================
+E. SEZGIRLIK TESTLARI (Jadval S3), har bir DMI uchun max |o'zgarish|, kJ/mol
+==============================================================================
+Kontinuum tarkibi (ε 2-ME -> DMI)    max 1.8  (median 0.2; eng katta: PbI2 b1)
+ωB97M-V/def2-TZVP vs r2SCAN-3c       max 3.0  (median 1.1; eng katta: PbBr2 b1)
+CPCM vs SMD                          max 6.2  (median 1.7; eng katta: PbI2 b2_cis)
+CPCM: ΔE_b ishorasi o'zgargan holatlar: 2 ['b2_c1a1', 'b4_c2a2']
+ωB97M-V: ΔE_b ishorasi o'zgargan holatlar: 0
+
+==============================================================================
+F. HISOBLANGAN IR SILJISHLARI (Jadval S4), cm-1; FTIR aniqligi 4
+==============================================================================
+Erkin erituvchi: C=O (DMI) 1687, O–H (2-ME) 3791
+C=O (DMI): Δν = -13.2 … -2.6; |Δν| > 4: 3/4
+O–H (2-ME): Δν = -417.4 … -119.2; |Δν| > 4: 9/9

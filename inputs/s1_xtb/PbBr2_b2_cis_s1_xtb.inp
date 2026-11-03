@@ -1,0 +1,3 @@
+! XTB Opt 
+%pal nprocs 6 end
+* xyzfile 0 1 PbBr2_b2_cis_start.xyz
